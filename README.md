@@ -25,7 +25,7 @@ MongoDB implementation is based on this post here:
 
 https://skyl.org/log/post/skyl/2011/12/use-python-to-store-data-from-twitters-streaming-api-in-mongodb/
 
-#LocMine: 
+#LocMine
 
 Gathers geocoded tweets within a geo-bounding box area (I use the Toronto area here)
 
@@ -33,6 +33,6 @@ I used this to define my bounding box:
 
 http://paulisageek.com/hacku/examples/geoBoundingBoxTabs.html
 
-#QMine: 
+#QMine
 
 Gathers tweets based on a list of queries. Keywords I am interesting in tracking.
