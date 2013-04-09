@@ -25,8 +25,6 @@ MongoDB implementation is based on this post here:
 
 https://skyl.org/log/post/skyl/2011/12/use-python-to-store-data-from-twitters-streaming-api-in-mongodb/
 
-#I've including two examples: 
-
 #LocMine: 
 
 Gathers geocoded tweets within a geo-bounding box area (I use the Toronto area here)
